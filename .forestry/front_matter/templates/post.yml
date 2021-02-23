@@ -24,3 +24,13 @@ fields:
   name: description
   label: description
   description: Meta description
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Content
+  description: place to write down the body of text
