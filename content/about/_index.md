@@ -1,6 +1,6 @@
 ---
 title: About
-description: This is meta description
+description: About MOJETVOJE - how it came to life and where is it actually going?
 
 ---
 This is an awesome example of me being rebellious and instead of going offline, testing new website builder :D YAY - tomorrow morning will be painful again :D
